@@ -33,11 +33,11 @@ Everything in this teardown is grounded in what I actually saw and used.
 
 | # | Pillar | Core Finding |
 |---|--------|-------------|
-| [01](teardown/01-ux.md) | **UX** | Three sequential checkout friction points that compound at the highest-stakes moment — payment |
-| [02](teardown/02-features.md) | **Features / Services** | A financial integrity bug (wrong cart amount) + a missing Access Guarantee creating real user risk |
-| [03](teardown/03-gtm-icp.md) | **GTM & ICP** | Messaging three different people at once and converting none efficiently |
-| [04](teardown/04-competitor-analysis.md) | **Competitor Analysis** | CRED has entered Subspace's lane — and Subspace has no counter-positioning |
-| [05](teardown/05-collaborations.md) | **Collaborations** | Subspace's best users already live together but aren't being activated as a cluster |
+| [01] | **UX** | Three sequential checkout friction points that compound at the highest-stakes moment — payment |
+| [02] | **Features / Services** | A financial integrity bug (wrong cart amount) + a missing Access Guarantee creating real user risk |
+| [03] | **GTM & ICP** | Messaging three different people at once and converting none efficiently |
+| [04] | **Competitor Analysis** | CRED has entered Subspace's lane — and Subspace has no counter-positioning |
+| [05] | **Collaborations** | Subspace's best users already live together but aren't being activated as a cluster |
 
 ---
 
