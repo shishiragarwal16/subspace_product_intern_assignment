@@ -117,11 +117,10 @@ All screenshots were captured during live app testing on **May 30–31, 2026** a
 | [E] | Wallet screen — Android native "Open with" intent chooser appearing immediately after C |
 | [F] | Recent LinkedIn post regarding "premium gear for a photoshoot" — #SmartRental   |
 | [G] | Instagram profile — 906 followers — generic savings content, no consistent person |
-| [H] | Cart — Dominos gift card — Rs.100 selected, Rs.425 added to cart Video Recording 
-https://drive.google.com/file/d/1RumDRw8W92V7B9zQA8OT5B4C_WbPXDyk/view?usp=sharing|
+| [H] | Cart — Dominos gift card — Rs.100 selected, Rs.425 added to cart Video Recording|
 | [I] | Subspace.money 1 star Reviews Most Relevant and quoted |
 ---
-
+H- Screen Recording https://drive.google.com/file/d/1RumDRw8W92V7B9zQA8OT5B4C_WbPXDyk/view?usp=sharing
 ## Full PDF Submission
 
 The complete teardown with all pillar write-ups is available here: [Subspace_Teardown_Shishir_Agarwal.pdf](Subspace_Teardown_Shishir_Agarwal.pdf)
