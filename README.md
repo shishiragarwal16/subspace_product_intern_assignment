@@ -110,16 +110,14 @@ All screenshots were captured during live app testing on **May 30–31, 2026** a
 
 | Exhibit | Description |
 |---------|-------------|
-| [A](assets/exhibits/exhibit-a-cart-no-buy-now.png) | Cart screen — "Your Cart, 2 items" — only "Proceed to Pay Rs.4846", no Buy Now per item |
-| [B](assets/exhibits/exhibit-b-gift-card-quick-select.png) | Product Details — Playstore gift card — quick select values: Rs.10 / Rs.1670 / Rs.2505 / Rs.5000 |
-| [C](assets/exhibits/exhibit-c-custom-upi-picker.png) | Wallet screen — Subspace custom UPI picker ("Superfast, zero failures") |
-| [D](assets/exhibits/exhibit-d-android-native-picker.png) | Wallet screen — Android native "Open with" intent chooser appearing immediately after C |
-| [E](assets/exhibits/exhibit-e-rohith-review.png) | Play Store — Rohith Ramesh (10 helpful votes) — admin retaliation against negative reviewer |
-| [F](assets/exhibits/exhibit-f-swadhin-review.png) | Play Store — Swadhin Das — Amazon Prime access revoked, no refund |
-| [G](assets/exhibits/exhibit-g-cart-bug-dominos.png) | Cart — Dominos gift card — Rs.100 selected, Rs.425 added to cart |
-| [H](assets/exhibits/exhibit-h-linkedin-rental-post.png) | LinkedIn — rental content: "premium gear for a photoshoot" — #SmartRental |
-| [I](assets/exhibits/exhibit-i-instagram-profile.png) | Instagram profile — 906 followers — generic savings content, no consistent persona |
-
+| [A] | Cart screen — "Your Cart, 2 items" — only "Proceed to Pay Rs.4846", no Buy Now per item |
+| [B]| Product Details — Playstore gift card — quick select values: Rs.10 / Rs.1670 / Rs.2505 / Rs.5000 |
+| [C] | Wallet screen |
+| [D] | Wallet screen — Subspace custom UPI picker ("Superfast, zero failures") |
+| [E] | Wallet screen — Android native "Open with" intent chooser appearing immediately after C |
+| [F] | Recent LinkedIn post regarding "premium gear for a photoshoot" — #SmartRental   |
+| [G] | Instagram profile — 906 followers — generic savings content, no consistent person |
+| [H] | Cart — Dominos gift card — Rs.100 selected, Rs.425 added to cart Video Recording|
 ---
 
 ## Full PDF Submission
